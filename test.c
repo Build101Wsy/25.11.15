@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
-	printf("testing..\n");
+	printf("ghefcioj\n");
+	printf("hjgbefcujia\n");
+	sleep(1);
 	return 0;
 }
