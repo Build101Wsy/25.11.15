@@ -4,5 +4,6 @@ int main() {
 	printf("hjgbefcujia\n");
 	sleep(1);
 	printf("hbesdfij\n");
+	printf("hbesdfij\n");
 	return 0;
 }
